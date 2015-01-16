@@ -18,6 +18,7 @@
   "license": "MIT",
   "private": true,
   "ignore": [
+    "closure.txt",
     "node_modules",
     "bower_components",
     "test",
