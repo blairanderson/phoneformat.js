@@ -1,11 +1,11 @@
 {
-  "name": "phone format bower",
+  "name": "phone-format-bower",
   "version": "1.0.0",
   "homepage": "https://github.com/blairanderson/phoneformat.js",
   "authors": [
     "Blair Anderson <Blair81@gmail.com>"
   ],
-  "description": "phone number formatter",
+  "description": "a phone number formatter with a bower file",
   "main": "lib/phoneformat.js",
   "moduleType": [
     "globals"
